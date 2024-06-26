@@ -1,0 +1,21 @@
+{
+  "name": "random-string-messages-dev-eliane",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElianeRiveraCastillo22/random-string-messages-dev-eliane.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eliane Rivera",
+  "license": "MIT",
+  "homepage": "https://github.com/ElianeRiveraCastillo22/random-string-messages-dev-eliane.git",
+  "bin": {
+    "random-str-msj":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
